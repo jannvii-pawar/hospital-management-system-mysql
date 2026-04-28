@@ -63,7 +63,7 @@ Each table is normalized and linked using foreign keys.
 
 ## How to Run the Project
 
-1. Install **MySQL 8.0**  
+1. Install **MySQL 8.0 Command Line Cliend**  
 2. Create a new database:  
    ```sql
    CREATE DATABASE hospital_record;
